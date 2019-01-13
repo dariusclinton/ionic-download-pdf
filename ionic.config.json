@@ -1,0 +1,7 @@
+{
+  "name": "download-pdf",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
